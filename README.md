@@ -1,5 +1,5 @@
-# Seamless-End-to-End-Cell-Segmentation
 
+# Seamless-End-to-End-Cell-Segmentation
 
 ## Workflows
 
@@ -9,16 +9,16 @@
 4. pipelines
 5. app.py
 
-
 # How to run?
-### STEPS:
+### Steps:
 
-Clone the repository
+**Clone the repository**
 
 ```bash
 https://github.com/hitaarthh/Seamless-End-to-End-Cell-Segmentation.git
 ```
-### STEP 01- Create a conda environment after opening the repository
+
+**STEP 1- Create a conda environment after opening the repository**
 
 ```bash
 conda create -n cell python=3.8 -y
@@ -28,19 +28,17 @@ conda create -n cell python=3.8 -y
 conda activate cell
 ```
 
-
-### STEP 02- install the requirements
+**STEP 2- Install the requirements**
 ```bash
 pip install -r requirements.txt
 ```
 
-
+**Run the application**
 ```bash
-# Finally run the following command
 python app.py
 ```
 
-Now,
-```bash
-open up you local host and port 8081
+**Now, open your browser and navigate to:**
+```plaintext
+http://localhost:8081
 ```
