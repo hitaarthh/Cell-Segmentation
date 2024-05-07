@@ -1,5 +1,5 @@
 
-# Seamless-End-to-End-Cell-Segmentation
+# Cell-Segmentation
 
 ## Workflows
 
